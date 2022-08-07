@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306830794061",
+    "project_id": "hololive-app-fadb5",
+    "storage_bucket": "hololive-app-fadb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306830794061:android:c83c0d9b1a3f331f446b04",
+        "android_client_info": {
+          "package_name": "com.example.hololive_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306830794061-bttrq0gd7n6g5ofcdid1j4eq6uima0hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3ZQ6i6FU94H9kQ-nXL0xximJvyxwGdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306830794061-bttrq0gd7n6g5ofcdid1j4eq6uima0hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
